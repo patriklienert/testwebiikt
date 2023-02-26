@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1>Menu</h1>
+<ul>
+ <li><a href="#Uvod">Úvod</a></li> -----------<!--hashtagy--> <!--menu-->
+ <li><a href="#Galerie">Galerie</a>
+<ul>
+ <li><a href="#2022">2022</a></li>
+ <li><a href="#2021">2021</a></li>
+ <li><a href="#2020">2020</a></li>
+</ul>
+ </li>
+ <li><a href="#Omne">O mně</a>
+<ul>
+ <li><a href="#Zkusenosti">Zkušenosti</a></li>
+ <li><a href="#Uzitecneodkazy">Užitečné odkazy</a></li>
+ <li><a href="#Kontakt">Kontakt</a></li>
+</ul> 
+</li>
+</ul>
+
+    <h1 id="Uvod">Úvod</h1> -------------<!--Lorem Ipsum-->
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit incidunt, non ratione magnam iste excepturi
+        pariatur
+        error soluta quia dolor repellat sequi doloremque natus veritatis obcaecati ad voluptatibus officia quisquam?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit incidunt, non ratione magnam iste excepturi
+        pariatur
+        error soluta quia dolor repellat sequi doloremque natus veritatis obcaecati ad voluptatibus officia quisquam? </p>
+    
+    <h1 id="Galerie">Galerie</h1> --------- <!--galerie-->
+    <h2 id="2022">2022</h2>
+    <img src="images.jfif" alt="boty"
+        style="height: 170px;width: 210px;"> <br> ------- <!-- obrazky -->
+    <img src="images.jfif" alt="boty"
+        style="height: 170px;width: 210px;"> <br>
+    <img src="images.jfif" alt="boty"
+        style="height: 170px;width: 210px;"> <br>
+
+    <h2 id="2021">2021</h2>
+    <img src="images (1).jfif" alt="boty2"
+        style="height: 170px;width: 210px;"> <br> ----------------- <!-- obrazky -->
+    <img src="images (1).jfif" alt="boty2"
+        style="height: 170px;width: 210px;"> <br>
+    <img src="images (1).jfif" alt="boty2"
+        style="height: 170px;width: 210px;"> <br>
+    
+
+    <h2 id="2020">2020</h2>
+    <img src="s-l225.jpg" alt="boty3"
+        style="height: 170px;width: 210px;"> <br> ----------------- <!-- obrazky -->
+    <img src="s-l225.jpg" alt="boty3"
+        style="height: 170px;width: 210px;"> <br>
+    <img src="s-l225.jpg" alt="boty3"
+        style="height: 170px;width: 210px;"> <br>
+    
+    <h1 id="Omne">O mně</h1> ------------- <!--O mně-->
+    <h2 id="Zkusenosti">Zkušenosti</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate alias esse commodi deleniti suscipit impedit, ------------- <!-- Zkušenosti-->
+        ipsam consequuntur perferendis culpa dolore atque sint illo distinctio repellat ducimus, veniam minus facere
+        est.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, a quas natus alias quidem explicabo ea ratione -----------<!-- odkazy -->
+        animi nulla, illo iste! Dicta molestiae, illum officiis quisquam sed ad adipisci enim.[</p>
+        
+    <h2 id="Uzitecneodkazy">Užitečné odkazy</h2> 
+    <a href="https://www.youtube.com/watch?v=AkhjjiBta-o">github</a> <br>
+    <a href="https://www.youtube.com/watch?v=XIYuxAeKSM0" target="_blank">Video</a> <br>
+
+    <h2 id="Kontakt">Kontakt</h2>  --------- <!-- můj zcela osobní kontakt-->
+    <p><img src="telefon-ikona-700-223777877.jpg" alt="telefon" style="height: 25px;width: 25px;"> + 420 797 822 337 </p> ----------- <!-- telefonní číslo-->
+    <p><img src="istockphoto-905082438-170667a.jpg" alt="profilovka" style="height: 25px;width: 25px;"> gotogym@spourtamnechodi.cz</p> ---------- <!-- mail-->  
+</body>
+</html>
